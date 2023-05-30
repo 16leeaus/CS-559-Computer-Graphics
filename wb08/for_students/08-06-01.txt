@@ -1,0 +1,6 @@
+The pine tree is rather simple consisting of a cylinder, with a series of 
+cones stacked on top. 
+
+The House is also rather simple. Being made of a main box structure, i.e. the 4 
+walls. Plus two triangles made with a helper function, that make up the facade of the house.
+Then there are two more planes that are used to make up the roof sections of the house.

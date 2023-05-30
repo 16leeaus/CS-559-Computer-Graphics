@@ -1,0 +1,14 @@
+Students should list the advanced points they have completed:
+
+    - Regular points completed
+
+        - Boids - add 10 boids when button is clicked, random locations and directions
+        - Boids - clear when button is clicked
+        - Boids bounce, not wrap
+        - Boids change color (briefly) when they hit a wall
+        - Boids change color (briefly) when they hit another boid (either overlap or come 
+          very close)
+
+    - No advanced points completed
+
+      - Boids bounce off obstacles

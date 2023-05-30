@@ -1,0 +1,14 @@
+Three different behaviors that you made:
+1. The trophy spins in place, as though it is on display.
+2. The small crowd of people will jump up and down cheering on the racers at spaced intervals.
+3. The wind turbines all spin as though there is a stiff breeze.
+
+One behavior that is not simple:
+Not simple: N/A
+
+Animated Articulated Figure:
+Articulated: One of the windmills will have the rotor hub pivot independently of the tower, and the spinning blades.
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- N/A
+- N/A

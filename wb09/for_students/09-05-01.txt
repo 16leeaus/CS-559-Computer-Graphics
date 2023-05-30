@@ -1,0 +1,9 @@
+A sphere is a good object to use as an example for enviornment mapping, because
+of the way that the map interprets the enviornment. The idea is the that 
+envionrment that surrounds the object is conscidered to be the side of an infinte
+sphere that is infintely far away. Basically the normal vector on the fragment 
+is used to determine the contents of the image at that point instead of uv mapping.
+
+This image set was found here, the "Teide" set:
+https://opengameart.org/content/mountain-skyboxes
+Author: Emil Persson

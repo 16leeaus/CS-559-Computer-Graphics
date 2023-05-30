@@ -1,0 +1,12 @@
+From initial viewpoint the spheres from left to right are:
+    Normal map
+    Normal + Diffuse map
+    Bump map
+
+You can tell the difference between the normal map and the bump map based on the way 
+that the normal map can display more information about the image depth. As opposed 
+to the bump map which mostly just shades the texture to give the appearance of more depth and detail.
+
+
+Images for the above objects can be found here:
+https://polyhaven.com/a/random_bricks_thick

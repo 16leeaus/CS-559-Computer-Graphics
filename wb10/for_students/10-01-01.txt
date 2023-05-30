@@ -1,0 +1,3 @@
+1. The vertex shader program takes as an input a vertex (with attributes), and returns the same vertex with additinal information. Such as screen-space position, normal, and vertex-lit color.
+
+2. The fragment shader program takes as an input a fragment (a pixel), with its own attributes. The output is then the fragment with additional or changed attributes, such as color.

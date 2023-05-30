@@ -1,0 +1,35 @@
+<!-- here is a big, empty SVG! make it into something interesting! -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="600px" width="600px">
+    <rect x="0" y="0" height="600" width="600" fill="Black" />
+    <circle id="Moon" cx="250" cy="900" r="400" fill="Grey"/>
+    <circle id="Earth" cx="560" cy="5" r="120" fill="Blue"/>
+    <circle id="EarthLand" cx="560" cy="10" r="5" fill="Green"/>
+    <circle id="EarthLand" cx="599" cy="60" r="10" fill="Green"/>
+    <circle id="EarthLand" cx="555" cy="50" r="25" fill="Green"/>
+    <circle id="EarthLand" cx="520" cy="80" r="5" fill="Green"/>
+    <circle id="EarthLand" cx="480" cy="20" r="10" fill="Green"/>
+    <circle id="EarthLand" cx="590" cy="99" r="15" fill="Green"/>
+    <circle id="EarthLand" cx="495" cy="70" r="5" fill="Green"/>
+    <!-- Yellow colored tars -->
+    <circle id="yellowStar" cx="5" cy="5" r="10" fill="Yellow"/>
+        <use href="#yellowStar" x = "110" y = "30" />
+        <use href="#yellowStar" x = "380" y = "24" />
+        <use href="#yellowStar" x = "299" y = "96" />
+        <use href="#yellowStar" x = "33" y = "210" />
+        <use href="#yellowStar" x = "96" y = "96" />
+        <use href="#yellowStar" x = "299" y = "96" />
+        <use href="#yellowStar" x = "300" y = "300" />
+
+    <circle id="whiteStar" cx="90" cy="50" r="10" fill="White"/>
+        <use href="#whiteStar" x = "220" y = "99" />
+        <use href="#whiteStar" x = "120" y = "210" />
+        <use href="#whiteStar" x = "66" y = "66" />
+        <use href="#whiteStar" x = "330" y = "99" />
+        <use href="#whiteStar" x = "490" y = "290" />
+
+        <polygon points="25,2.5 10,49.5 47.5,19.5 2.5,19.5 40,49.5"
+            style="fill:Red;;stroke-width:5;fill-rule:nonzero;" 
+            id = "star"/>
+
+            <use href="star" x = "99" y = "99" />
+</svg>

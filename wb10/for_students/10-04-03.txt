@@ -1,0 +1,3 @@
+Answer the question.
+
+The reason that this lighting shader is correct is because you can see that the general lighting from the objects is yellow, with a more metallic shine from the white specular lighting.

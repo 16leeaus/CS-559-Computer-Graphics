@@ -1,0 +1,7 @@
+Explain how you incorporated a material property map here
+
+In this example I lower the metalness property of the material. This was done to
+reduce the shininess of the textures and promote the rusty nature of the image.
+
+Image textures can be found here:
+https://polyhaven.com/a/metal_plate

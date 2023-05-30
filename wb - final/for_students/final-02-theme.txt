@@ -1,0 +1,5 @@
+My town's theme is:
+
+I figured that I would continue the idea of the circular track, and turn it into a race track of sorts.
+I used the race car model a couple more times to extend that idea, and then added some of the addiional objects like support trucks, cars for spectators and other buildings in order to fill out the graphics town.
+The wind turbines are pretty much there for additional flavor as well as something that can add some more movement and animation to the project.

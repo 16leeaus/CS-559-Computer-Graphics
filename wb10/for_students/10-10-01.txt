@@ -1,0 +1,13 @@
+Where did you get your shader? Describe the source and include a link.
+
+I found the shader above listed here:
+
+https://2pha.com/demos/threejs/shaders/voronoise.html
+
+It is labeled as "Noise (voronoise)" on the associated webpage. The shader itself seems to adapted from a shader found on this website:
+https://iquilezles.org/articles/voronoise/
+
+In your own words, describe how this shader works. (3-5 sentences)
+
+This shader required relatively little effort to get working in the workbook.
+As I understand it the shader creates a combination of regular noise from Perlin and Voronoi. The result is this procedurally developed cellular pattern that computes the distance to the closest feature points as opposed to interpolating the points. As such the pattern uses a regular grid pattern that is then morphed using the jitter variable to create the unique shapes. Amount simply controlls the number of times that the pattern repeats and blur uses smoothstep to a variable degree to obfuscate the lines in the pattern.

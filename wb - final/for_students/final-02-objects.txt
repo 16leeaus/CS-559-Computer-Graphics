@@ -1,0 +1,29 @@
+(Required) Two kinds of objects created for this assignment:
+1. Wind Turbine
+2. Semi truck
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. Basic pine tree (modified from WB-08)
+4. Red building (also from WB-08)
+5. Blocky car (also from WB-08)
+6. Finish line flag
+7. Crowd of some basic people
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- N/A
+- N/A
+- N/A
+
+At least one of each type of object:
+Building/structure: Red building
+Vehicle: Blocky car
+Natural Element: Basic pine tree
+
+Object loaded from a model file:
+Model: Trophy
+
+An object with a shader that you wrote:
+ShaderObj: Flag (uses the checkerboard shader)
+
+Other Objects that you would like to note:
+N/A

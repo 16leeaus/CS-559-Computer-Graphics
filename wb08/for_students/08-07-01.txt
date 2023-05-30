@@ -1,0 +1,4 @@
+Here we have a red car that is composed of a group of cubic meshes. The 
+intention was to make a fairly easy to construct car that will fit in a blocky 
+or cubic world that will be create in the graphics town assignment. The next 
+vehicle is a school bus that matches the school created in the buildings file.

@@ -1,0 +1,15 @@
+Where did the image come from? 
+
+I know it does not look like much, but this is a image taken of Mt. Everest and 
+the surrounding Himalayas taken from on-board the international space station.
+
+https://earthobservatory.nasa.gov/images/149632/close-up-of-mount-everest
+
+What lighting did you implement?
+
+I implemented simple diffuse lighting in the shader.
+
+
+Did you do anything beyond basic texure with diffuse lighting (explain)?
+
+

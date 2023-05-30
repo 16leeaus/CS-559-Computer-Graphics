@@ -1,0 +1,2 @@
+The main body of the UFO shows C(1) continuity using 3 bezier curves to create
+the curved shape.
